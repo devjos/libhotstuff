@@ -1,6 +1,7 @@
 #ifndef _HOTSTUFF_CONFIG_H
 #define _HOTSTUFF_CONFIG_H
 
+#cmakedefine HOTSTUFF_CMD_REQSIZE
 #cmakedefine HOTSTUFF_ENABLE_BENCHMARK
 #cmakedefine HOTSTUFF_DEBUG_LOG
 #cmakedefine HOTSTUFF_NORMAL_LOG
