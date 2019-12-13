@@ -32,8 +32,8 @@ def plot_thr(fname):
     plt.xlabel(r"time")
     plt.ylabel(r"tx/sec")
     plt.plot(x, y)
-    plt.show()
     plt.savefig(fname)
+    #plt.show()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
