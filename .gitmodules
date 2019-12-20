@@ -4,3 +4,4 @@
 [submodule "salticidae"]
 	path = salticidae
 	url = https://github.com/devjos/salticidae.git
+	branch = dtls
